@@ -15,7 +15,7 @@ TensorFlow docsコミュニティに参加するのであれば、以下の2つ�
 
 ## API リファレンス
 
-リファレンスドキュメントを更新するには、[ソースファイル](https://www.tensorflow.org/code/tensorflow/python/)を見つけて、シンボルの <a class="external" href="https://www.python.org/dev/peps/pep-0257/">docstring</a>を編集します。 tensorflow.orgの多くのAPIリファレンスページには、シンボルが定義されているソースファイルへのリンクを含みます。docstring は<a class="external" href="https://help.github.com/en/articles/about-writing-and-formatting-on-github">Markdown形式</a>サポートしており、どんな<a class="external" href="http://tmpvar.com/markdown.html">Markdownプレビューアー</a>でも(ほぼ)プレビューすることができます。
+リファレンスドキュメントを更新するには、[ソースファイル](https://www.tensorflow.org/code/tensorflow/python/)を見つけて、シンボルの <a class="external" href="https://www.python.org/dev/peps/pep-0257/">docstring</a>を編集します。 tensorflow.orgの多くのAPIリファレンスページには、シンボルが定義されているソースファイルへのリンクを含みます。docstring は<a class="external" href="https://help.github.com/en/articles/about-writing-and-formatting-on-github">Markdown形式</a>をサポートしており、どんな<a class="external" href="http://tmpvar.com/markdown.html">Markdownプレビューアー</a>でも(ほぼ)プレビューすることができます。
 
 リファレンスドキュメントの品質と、短期集中型ドキュメント作成(訳注:doc sprints)とコミュニティに深くかかわる方法を知るために、[TensorFlow 2 API Docs advice](https://docs.google.com/document/d/1e20k9CuaZ_-hp25-sSd8E8qldxKPKQR-SkwojYr_r-U/preview)を参照してください。
 
@@ -173,7 +173,7 @@ Jupyter notebookファイルをダウンロードしてローカルGitワーク�
 2. 編集したいJupyter notebookファイルに移動します。
 3. Jupyter notebook を Google Colabで開きます。このときURLの変換にはChromeの拡張機能の*Open in Colab*を使います。
 4. ColabでJupyter notebookを編集します。
-5. *ファイル > GitHubにコピーを保存*で変更をリポジトリにコミットします。保存ダイアログは適切なリポジトリのブランチへのリンクになっているはずです。意味のあるコミットメッセージを入力します。
+5. *ファイル > GitHub にコピーを保存*で変更をリポジトリにコミットします。保存ダイアログは適切なリポジトリのブランチへのリンクになっているはずです。意味のあるコミットメッセージを入力します。
 6. 保存した後は、あなたのリポジトリか<a class="external" href="https://github.com/tensorflow/docs">tensorflow/docs</a>リポジトリをブラウジングしてください。GitHub上でプルリクエストを作成するように促されるはずです。
 7. メンテナにプルリクエストをレビューしてもらいます。
 
