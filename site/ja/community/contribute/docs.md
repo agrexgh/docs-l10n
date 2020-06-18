@@ -1,6 +1,6 @@
 # TensorFlow のドキュメント作成に貢献する
 
-TensorFlow はドキュメント作成の貢献を歓迎します- あなたがドキュメントを改善してくれれば、TensorFlowライブラリそのものが改善されることになります。 tensorflow.orgにあるドキュメントは以下のカテゴリに分類されます。
+TensorFlow はドキュメントの貢献を歓迎します- あなたがドキュメントを改善してくれれば、TensorFlowライブラリそのものが改善されます。 tensorflow.orgにあるドキュメントは以下のカテゴリに分類されます。
 
 - *API リファレンス* —The [API リファレンスドキュメント](https://www.tensorflow.org/api_docs/) は [TensorFlowソースコードの](https://github.com/tensorflow/tensorflow) docstring から生成されています。
 - *解説ドキュメント* —これは [チュートリアル](https://www.tensorflow.org/tutorials)や[ガイド](https://www.tensorflow.org/guide)、その他のTensorFlowのコードの一部ではない文書です。これらのドキュメントは GitHubリポジトリの[tensorflow/docs](https://github.com/tensorflow/docs) にあります。
